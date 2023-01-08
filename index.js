@@ -14,7 +14,7 @@ function createElement(size) {
 }
 createElement(16);
 function changeSize(input) {
-  if (input < 2 || input > 40) {
+  if (input < 2 || input > 100) {
     console.log("too many squares");
   } else {
     createElement(input);

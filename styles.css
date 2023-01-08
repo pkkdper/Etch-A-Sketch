@@ -1,5 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 .board {
     width: 500px;
     height: 500px;
     display: grid;
+    background-color: white;
+    border: 5px solid burlywood;
 }
+
+body {
+    background-color: rgb(245, 238, 230);
+    font-family: "Roboto";
+}
+
+/* title {
+
+} */
